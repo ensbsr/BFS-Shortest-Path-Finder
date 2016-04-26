@@ -1,5 +1,6 @@
 class Node(object):
 	"""
+	undeba
 	Node object to create a graph with edges and nodes
 	"""
 	def __init__(self, i, j, isObstacle, left = None, right = None, up = None, down = None):
